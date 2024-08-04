@@ -15,13 +15,13 @@ public class first {
         System.out.println(b);
 
 
-        int num3 = 54;
-        byte by = 127;
-        short sh = 558;
-        long l = 58541l; // l is added at last
-        float f = 5.8f;
-        boolean bool = true;
-        char chr = '8';
+        // int num3 = 54;
+        // byte by = 127;
+        // short sh = 558;
+        // long l = 58541l; // l is added at last
+        // float f = 5.8f;
+        // boolean bool = true;
+        // char chr = '8';
 
     }
 }
