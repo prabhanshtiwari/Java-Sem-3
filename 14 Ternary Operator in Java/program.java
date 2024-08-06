@@ -17,8 +17,6 @@ public class program {
 
         System.out.println(result);
 
-
-
     }
 }
 /*
