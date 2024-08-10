@@ -33,7 +33,6 @@ public class multiarr
 
 
         // Enhanced for loop
-        // DOUBT
 
         for(int n[] : nums)
         {
